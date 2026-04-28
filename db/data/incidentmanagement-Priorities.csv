@@ -1,0 +1,4 @@
+code,name,descr
+L,Low,Minor issue with minimal business impact
+M,Medium,Moderate issue affecting some users or processes
+H,High,Critical issue with significant business impact

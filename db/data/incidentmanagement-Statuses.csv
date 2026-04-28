@@ -1,0 +1,6 @@
+code,name,descr
+N,New,Incident has been reported and is awaiting triage
+I,In Progress,Incident is actively being worked on
+H,On Hold,Incident is paused pending additional information
+R,Resolved,Incident has been resolved and awaiting confirmation
+C,Closed,Incident is fully closed

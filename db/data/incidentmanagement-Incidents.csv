@@ -1,0 +1,6 @@
+ID,title,description,customer_ID,status_code,priority_code,category_code
+d4e5f6a7-b8c9-0123-defa-234567890123,Cannot log in to portal,User is unable to authenticate to the customer portal after password change,a1b2c3d4-e5f6-7890-abcd-ef1234567890,N,H,T
+e5f6a7b8-c9d0-1234-efab-345678901234,Invoice amount incorrect,Monthly invoice shows wrong amount - overcharged by 50 USD compared to contract,b2c3d4e5-f6a7-8901-bcde-f12345678901,I,M,B
+f6a7b8c9-d0e1-2345-fabc-456789012345,Package not delivered,Order placed 10 days ago has not arrived and tracking shows no updates,c3d4e5f6-a7b8-9012-cdef-123456789012,H,L,S
+a7b8c9d0-e1f2-3456-abcd-567890123456,Password reset email not received,Requested password reset multiple times but no email is received,a1b2c3d4-e5f6-7890-abcd-ef1234567890,R,M,T
+b8c9d0e1-f2a3-4567-bcde-678901234567,Charged twice for subscription,Bank statement shows two charges for the same subscription in the same month,b2c3d4e5-f6a7-8901-bcde-f12345678901,C,H,B
