@@ -8,8 +8,7 @@ To setup the MCP servers necessary for the session, do the following :
 npm install -g @ui5/mcp-server @cap-js/mcp-server @sap-ux/fiori-mcp-server
 ```
 
-2. 
-Then copy the following configuration file in Cline MCP server configuration:
+2. Then copy the following configuration file in Cline MCP server configuration:
 ```json
 {
   "mcpServers": {
